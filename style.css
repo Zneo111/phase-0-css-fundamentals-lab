@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: cyan;
+  gap: 10px;
+}
+
+figcaption{
+  display: block;
+  text-align: center;
+}
+
+#featured-property{
+  width: 800px;
+  text-align:center;
+  display: block;
+  margin: 0 auto;
+}
